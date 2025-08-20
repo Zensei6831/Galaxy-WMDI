@@ -1,2 +1,2 @@
 # Galaxy-WMDI
-This repository has been created by the owners of the galaxy-WMDI site for the public that uses the site. This is the place for problems, tips and tricks or support.
+Please see "Short read test" for a test set that can be used for MOBACOP as an example of what to expect from this pipeling. 
